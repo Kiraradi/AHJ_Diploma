@@ -1,4 +1,4 @@
-import { createDOMElement } from "../../services/CreateDOMElement";
+import { createDOMElement } from "../../services/DOMElementHelper";
 import MessageService from "../../services/messageService";
 import "./Chat.css";
 import TopBar from "./TopBar/TopBar";
