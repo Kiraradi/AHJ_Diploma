@@ -1,6 +1,5 @@
-import { createDOMElement } from "../../../services/CreateDOMElement";
+import { createDOMElement } from "../../../services/DOMElementHelper";
 import "./TopBar.css";
-import RequestService from "../../../services/requestService";
 
 export default class TopBar {
   constructor(container, messageService) {

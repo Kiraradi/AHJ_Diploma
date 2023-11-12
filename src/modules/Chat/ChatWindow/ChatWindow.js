@@ -1,4 +1,4 @@
-import { createDOMElement } from "../../../services/CreateDOMElement";
+import { createDOMElement } from "../../../services/DOMElementHelper";
 import { fromTextToHtml } from "../../../services/textHelper";
 import { getPosition } from "../../../services/mapService";
 import { SERVERURL } from "../../../constants";

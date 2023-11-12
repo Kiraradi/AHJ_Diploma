@@ -1,4 +1,4 @@
-import { createDOMElement } from "../../../services/CreateDOMElement";
+import { createDOMElement } from "../../../services/DOMElementHelper";
 import RequestService from "../../../services/requestService";
 import './BottomBar.css';
 

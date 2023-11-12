@@ -1,4 +1,4 @@
-import { createDOMElement } from "../../../services/CreateDOMElement";
+import { createDOMElement } from "../../../services/DOMElementHelper";
 import { Subject } from "rxjs";
 import "./ContentMenu.css";
 import RequestService from "../../../services/requestService";
