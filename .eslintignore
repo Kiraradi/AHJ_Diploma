@@ -1,0 +1,10 @@
+dist
+coverage
+doc
+webpack.*.js
+keep-data-cache
+e2e
+requestService.js
+mapService.js
+messageService.js
+BottomBar.js

@@ -1,0 +1,31 @@
+.bottomBar_wrapper {
+    width: 100%;
+}
+
+.input-file {
+    position: absolute;
+    top: -100px;
+    left: -100px;
+}
+.bottomBar_form {
+    display: flex;
+    gap: 10px;
+}
+
+.input_file_button {
+    cursor: pointer;
+}
+
+.input_field {
+    background-color: #252525;
+    border: 1px solid #e0dde6;
+    color: #e0dde6;
+    border-radius: 15px;
+    width: 90%;
+    padding: 0 10px;
+}
+
+.send_messade_buttom {
+    margin: 0 25px;
+    cursor: pointer;
+}

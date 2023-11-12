@@ -1,0 +1,28 @@
+.content-menu-wrapper {
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgb(124, 125, 126);
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    word-break: break-all;
+    transition: all 1s ease ;
+    display: flex;
+}
+.content-menu-wrapper-opend {
+    visibility: visible;
+    height: 10%;
+    
+}
+
+.content-menu-button {
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 5px;
+}
+
+.content-menu-button:hover {
+    text-decoration: underline;
+}
